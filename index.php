@@ -1,5 +1,7 @@
 <?php
 
+// Коментарий для теста
+
 session_start();
 
 ini_set('display_errors', 1);
